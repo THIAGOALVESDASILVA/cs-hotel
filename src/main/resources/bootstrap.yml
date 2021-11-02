@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Cs Hotel
+
+jwt:
+  secret: minhasenha123
+  expiration: 86400000

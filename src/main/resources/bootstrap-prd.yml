@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Cs Hotel
+
+jwt:
+  secret: ${JWT_SECRET}
+  expiration: 86400000
